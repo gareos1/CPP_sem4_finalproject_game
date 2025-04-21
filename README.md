@@ -2,7 +2,7 @@
 
 *A mystical dungeon crawler with spellcasting combat and maze exploration*
 
-![Game Screenshot](screenshot/12) ![Game Screenshot](screenshot/13) ![Game Screenshot](screenshot/14 ) ![Game Screenshot](screenshot/15)
+![Game Screenshot](screenshot/12.png) ![Game Screenshot](screenshot/13.png) ![Game Screenshot](screenshot/14.png) ![Game Screenshot](screenshot/15.png)
 
 ## 🎮 Game Description
 Emberbound is a fast-paced action RPG where you play as a mage exploring procedurally generated dungeons. Battle enemies, collect power-ups, and reach the exit to progress to deeper, more challenging levels!
